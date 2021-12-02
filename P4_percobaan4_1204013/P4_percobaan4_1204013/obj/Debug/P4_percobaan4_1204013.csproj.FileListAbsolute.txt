@@ -1,0 +1,9 @@
+c:\users\asus\documents\visual studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\bin\Debug\P4_percobaan4_1204013.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.Form1.resources
+c:\users\asus\documents\visual studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.csproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\bin\Debug\P4_percobaan4_1204013.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\bin\Debug\P4_percobaan4_1204013.pdb
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.exe
+C:\Users\Asus\Documents\Visual Studio 2015\Projects\P4_percobaan4_1204013\P4_percobaan4_1204013\obj\Debug\P4_percobaan4_1204013.pdb
